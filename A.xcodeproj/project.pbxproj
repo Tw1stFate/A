@@ -64,7 +64,6 @@
 		BAEEE312216F47E400546854 /* A */ = {
 			isa = PBXGroup;
 			children = (
-				BAEEE353216F503E00546854 /* Targets */,
 				BAEEE34F216F4C4A00546854 /* A */,
 				BAEEE313216F47E400546854 /* AppDelegate.h */,
 				BAEEE314216F47E500546854 /* AppDelegate.m */,
@@ -82,6 +81,7 @@
 		BAEEE34F216F4C4A00546854 /* A */ = {
 			isa = PBXGroup;
 			children = (
+				BAEEE353216F503E00546854 /* Targets */,
 				BAEEE350216F4C5700546854 /* AViewController.h */,
 				BAEEE351216F4C5700546854 /* AViewController.m */,
 			);
